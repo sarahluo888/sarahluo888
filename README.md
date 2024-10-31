@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my personal website!
+- 🔭 I’m currently working on my personal website! https://sarahluo888.github.io/
 - 🌱 I’m currently learning Flutter
 
 <!--
